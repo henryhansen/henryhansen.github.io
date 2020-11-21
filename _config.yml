@@ -26,11 +26,11 @@ description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://henryhansen.github.io/"
 author:
-  name:
-  twitter:
-  picture:
-twitter_username:
-github_username:
+  name: Henry Hansen
+  twitter: henry_h_hansen
+  picture: /assets/esr03_henry_hansen_medium.jpg
+twitter_username: henry_h_hansen
+github_username: henryhansen
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
