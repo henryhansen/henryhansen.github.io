@@ -4,15 +4,15 @@
     "label": "Fisheries Ecologist",
     "picture": "",
     "email": "henry.hansen@kau.se",
-    "phone": "",
-    "website": "https://henryhansen.github.io/",
+    "phone": "054-700 15 34",
+    "website": "https://www.kau.se/personal/henry-hansen",
     "summary": "Henry is an applied ecologist focusing on freshwater and marine natural resource managment problems.",
     "location": {
       "address": "Universitetsgatan 2",
       "postalCode": "651 88",
       "city": "Karlstad",
       "countryCode": "Sweden",
-      "region": "Värmlan"
+      "region": "Värmland"
     },
     "profiles": [
       {
@@ -56,139 +56,106 @@
       "website": "https://www.igb-berlin.de/",
       "startDate": "2019-04-01",
       "endDate": "2020-09-30",
-      "summary": "Implement acoustic reciever array in the southern Baltic Sea. Manage and lead field, lab, and biological database operations and budgets. Oversee training of master students and support staff.",
-      "highlights": [
-        "Designed one of the largest receiver arrays in Germany.",
-        "Tagged both freshwater and brackish northern pike."
-      ]
+      "summary": "Implement acoustic reciever array in the southern Baltic Sea. Manage and lead field, lab, and biological database operations and budgets. Oversee training of master students and support staff."
+    },
+    	{
+      "company": "University of Nebraska-Lincoln",
+      "position": "Graduate Research Assistant",
+      "website": "https://www.unl.edu/",
+      "startDate": "2017-01-01",
+      "endDate": "2019-05-30",
+      "summary": "Implement fish tagging efforts and acoustic reciever array deployment in Lake Winnipeg and Red River of the North."
     },
 	    {
       "company": "Park County Montana Local Government",
-      "position": "Entry Level Scientist",
-      "website": "https://www.igb-berlin.de/",
-      "startDate": "2019-04-01",
-      "endDate": "2020-09-30",
-      "summary": "Implement acoustic reciever array in the southern Baltic Sea. Manage and lead field, lab, and biological database operations and budgets. Oversee training of master students and support staff.",
-      "highlights": [
-        "Designed one of the largest receiver arrays in Germany.",
-        "Tagged both freshwater and brackish northern pike."
-      ]
+      "position": "Geographic Information Systems Programmer Analyst",
+      "website": "https://www.parkcounty.org/Government-Departments/GIS-Rural-Addressing/",
+      "startDate": "2014-11-23",
+      "endDate": "2016-08-12",
+      "summary": "Manage GIS databases, operations, and analyses for the county and city of Livingston."
     },
 	    {
       "company": "Montana Association of Geographic Information Professionals",
-      "position": "Entry Level Scientist",
-      "website": "https://www.igb-berlin.de/",
-      "startDate": "2019-04-01",
-      "endDate": "2020-09-30",
-      "summary": "Implement acoustic reciever array in the southern Baltic Sea. Manage and lead field, lab, and biological database operations and budgets. Oversee training of master students and support staff.",
-      "highlights": [
-        "Designed one of the largest receiver arrays in Germany.",
-        "Tagged both freshwater and brackish northern pike."
-      ]
+      "position": "Board of Directors",
+      "website": "https://www.magip.org/",
+      "startDate": "2015-06-01",
+      "endDate": "2016-08-12",
+      "summary": "Coordinate and improve operations of the association and expand membership."
     },
 	    {
       "company": "Park County Montana Local Government",
-      "position": "Entry Level Scientist",
-      "website": "https://www.igb-berlin.de/",
-      "startDate": "2019-04-01",
-      "endDate": "2020-09-30",
-      "summary": "Implement acoustic reciever array in the southern Baltic Sea. Manage and lead field, lab, and biological database operations and budgets. Oversee training of master students and support staff.",
-      "highlights": [
-        "Designed one of the largest receiver arrays in Germany.",
-        "Tagged both freshwater and brackish northern pike."
-      ]
+      "position": "Geographic Information Systems Intern",
+      "website": "https://www.parkcounty.org/Government-Departments/GIS-Rural-Addressing/",
+      "startDate": "2014-09-08",
+      "endDate": "2014-11-23",
+      "summary": "Design and publish Park County Atlas on ArcGIS Online"
     },
 	    {
       "company": "United States Geological Survey",
-      "position": "Entry Level Scientist",
-      "website": "https://www.igb-berlin.de/",
-      "startDate": "2019-04-01",
-      "endDate": "2020-09-30",
-      "summary": "Implement acoustic reciever array in the southern Baltic Sea. Manage and lead field, lab, and biological database operations and budgets. Oversee training of master students and support staff.",
-      "highlights": [
-        "Designed one of the largest receiver arrays in Germany.",
-        "Tagged both freshwater and brackish northern pike."
-      ]
+      "position": "Biological Science Technician",
+      "website": "https://www.usgs.gov/",
+      "startDate": "2014-06-02",
+      "endDate": "2014-09-05",
+      "summary": "Assist research scientists in fish and amphibian movement ecology studies."
     },
 	    {
       "company": "Minnesota Department of Natural Resources",
-      "position": "Entry Level Scientist",
-      "website": "https://www.igb-berlin.de/",
+      "position": "Native Mussel Survey Intern",
+      "website": "https://www.dnr.state.mn.us/",
       "startDate": "2019-04-01",
       "endDate": "2020-09-30",
-      "summary": "Implement acoustic reciever array in the southern Baltic Sea. Manage and lead field, lab, and biological database operations and budgets. Oversee training of master students and support staff.",
-      "highlights": [
-        "Designed one of the largest receiver arrays in Germany.",
-        "Tagged both freshwater and brackish northern pike."
-      ]
+      "summary": "Assist mussel biologists in statewide monitoring, surveys, and laboratory experiments."
     },
 	    {
       "company": "National Park Service",
-      "position": "Entry Level Scientist",
-      "website": "https://www.igb-berlin.de/",
-      "startDate": "2019-04-01",
-      "endDate": "2020-09-30",
-      "summary": "Implement acoustic reciever array in the southern Baltic Sea. Manage and lead field, lab, and biological database operations and budgets. Oversee training of master students and support staff.",
-      "highlights": [
-        "Designed one of the largest receiver arrays in Germany.",
-        "Tagged both freshwater and brackish northern pike."
-      ]
+      "position": "backcountry Ranger Intern",
+      "website": "https://www.nps.gov/index.htm",
+      "startDate": "2011-08-28",
+      "endDate": "2011-06-03",
+      "summary": "Assist park rangers with trail clearing. Support Yellowstone Fisheries lake trout removal program."
     },
 	    {
       "company": "University of Wisconsin-Stout",
-      "position": "Entry Level Scientist",
-      "website": "https://www.igb-berlin.de/",
-      "startDate": "2019-04-01",
-      "endDate": "2020-09-30",
-      "summary": "Implement acoustic reciever array in the southern Baltic Sea. Manage and lead field, lab, and biological database operations and budgets. Oversee training of master students and support staff.",
-      "highlights": [
-        "Designed one of the largest receiver arrays in Germany.",
-        "Tagged both freshwater and brackish northern pike."
-      ]
+      "position": "Undergraduate Research Coordinator",
+      "website": "https://www.uwstout.edu/",
+      "startDate": "2011-09-10",
+      "endDate": "2014-05-16",
+      "summary": "Manage and train undergraduate volunteers for population genetics sequencing lab."
     },
 	    {
       "company": "University of Wisconsin-Stout",
-      "position": "Entry Level Scientist",
-      "website": "https://www.igb-berlin.de/",
-      "startDate": "2019-04-01",
-      "endDate": "2020-09-30",
-      "summary": "Implement acoustic reciever array in the southern Baltic Sea. Manage and lead field, lab, and biological database operations and budgets. Oversee training of master students and support staff.",
-      "highlights": [
-        "Designed one of the largest receiver arrays in Germany.",
-        "Tagged both freshwater and brackish northern pike."
-      ]
+      "position": "Geographic Information Systems Tutor",
+      "website": "https://www.uwstout.edu/",
+      "startDate": "2013-09-05",
+      "endDate": "2014-05-16",
+      "summary": "Assist undergraduate GIS students with GIS labs."
     },
 	    {
       "company": "University of Wisconsin-Stout",
-      "position": "Entry Level Scientist",
-      "website": "https://www.igb-berlin.de/",
-      "startDate": "2019-04-01",
-      "endDate": "2020-09-30",
-      "summary": "Implement acoustic reciever array in the southern Baltic Sea. Manage and lead field, lab, and biological database operations and budgets. Oversee training of master students and support staff.",
-      "highlights": [
-        "Designed one of the largest receiver arrays in Germany.",
-        "Tagged both freshwater and brackish northern pike."
-      ]
+      "position": "Chemistry Lab Teaching Assistant",
+      "website": "https://www.uwstout.edu/",
+      "startDate": "2014-02-14",
+      "endDate": "2014-05-16",
+      "summary": "Oversee training of undergraduate students for quantitative chemistry course."
     }
   ],
   "volunteer": [
     {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
+      "organization": "",
+      "position": "",
       "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Awarded a 'Helium Biscuit'"
+        ""
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Nebraska-Lincoln",
-      "area": "Natural Resource Sciences",
-	  "specialization": "Applied Ecology",
+      "area": "Natural Resource Sciences - Applied Ecology",
       "studyType": "Master",
       "startDate": "2017-01-01",
       "endDate": "2019-05-10",
@@ -196,12 +163,7 @@
     },
 	{
       "institution": "University of Wisconsin-Stout",
-      "area": "Environmental Science",
-	  "concentration": "Aquatic Biology",
-	  "minors": [
-	  "GIS",
-	  "Chemistry"
-	  ],
+      "area": "Environmental Science - Aquatic Biology",
       "studyType": "Bachelor",
       "startDate": "2011-01-01",
       "endDate": "2014-05-13",
