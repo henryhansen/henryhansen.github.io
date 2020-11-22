@@ -1,40 +1,62 @@
 {
   "basics": {
-    "name": "Dugan Nash",
-    "label": "Very extravagant man",
+    "name": "Henry Hansen",
+    "label": "Fisheries Ecologist",
     "picture": "",
-    "email": "dugan.hash@mailinator.com",
-    "phone": "(555) 555-5555",
-    "website": "https://towlettepettetuc.ci",
-    "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
+    "email": "henry.hansen@kau.se",
+    "phone": "",
+    "website": "https://henryhansen.github.io/",
+    "summary": "Henry is an applied ecologist focusing on freshwater and marine natural resource managment problems",
     "location": {
-      "address": "123 Sesame Street",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Universitetsgatan 2",
+      "postalCode": "651 88",
+      "city": "Karlstad",
+      "countryCode": "Sweden",
+      "region": "Värmlan"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "Towlette_Pettetucci",
-        "url": "https://twitter.com/Towlette_Pettetucci"
+        "username": "Henry Hansen",
+        "url": "https://twitter.com/henry_h_hansen"
       },
       {
-        "network": "SoundCloud",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
+        "network": "Google Scholar",
+        "username": "Henry H. Hansen",
+        "url": "https://scholar.google.com/citations?user=MuXGrMcAAAAJ&hl=en"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Henry Hansen",
+        "url": "https://www.researchgate.net/profile/Henry_Hansen3"
+      },
+      {
+        "network": "Github",
+        "username": "henryhansen",
+        "url": "https://github.com/henryhansen"
       }
     ]
   },
   "work": [
     {
-      "company": "The Whip",
-      "position": "CEO/President",
-      "website": "https://thewh.ip",
-      "startDate": "2013-12-01",
+      "company": "Karlstad University",
+      "position": "PhD Student",
+      "website": "https://www.msca-ribes.eu/people/esrs/esr03_henry_hansen",
+      "startDate": "2020-10-01",
       "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+      "summary": "Investigate habitat alterations of rivers and fish community responses. Develop novel quantitative methods to better understand river dynamics. Produce relevant tools and approaches for river ecosystem managers and practitioners.",
+      "highlights": [
+        "Concealed nipper in embrodiery.",
+        "Dealt with Elastical Gomez on a daily basis."
+      ]
+    },
+	    {
+      "company": "Karlstad University",
+      "position": "PhD Student",
+      "website": "https://www.msca-ribes.eu/people/esrs/esr03_henry_hansen",
+      "startDate": "2020-10-01",
+      "endDate": "",
+      "summary": "Investigate habitat alterations of rivers and fish community responses. Develop novel quantitative methods to better understand river dynamics. Produce relevant tools and approaches for river ecosystem managers and practitioners.",
       "highlights": [
         "Concealed nipper in embrodiery.",
         "Dealt with Elastical Gomez on a daily basis."
