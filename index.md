@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+![Image of Burbot from Smithsonian Design Museum](/assets/burbot.jpg)
+
+## Welcome to Lota lota and other biota
 
 You can use the [editor on GitHub](https://github.com/henryhansen/henryhansen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
