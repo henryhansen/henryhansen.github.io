@@ -1,6 +1,7 @@
 ---
 title: "About"
 layout: about
+image:/assets/RiverSlide.jpg
 ---
 
 ### Satisfying Curiosity
@@ -9,4 +10,4 @@ My passion for the aquatic world and science started at an early age. I grew up 
 
 ### Check out the Rivers I explored!
 
-![Image of Rivers I explored](/assets/RiverSlide.jpg)
+
