@@ -4,5 +4,5 @@ layout: cv
 actions:
   - label: "Download as PDF"
     icon: pdf
-    url: "#pdf-asset"
+    url: "/assets/Henry_H_CV.pdf"
 ---
